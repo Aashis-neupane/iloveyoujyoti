@@ -35,7 +35,7 @@ header h1 {
     object-fit: cover;
     border-radius: 10px;
     border: 2px solid white;
-    display: flex;
+   
 }
 
 .card:hover {
