@@ -32,13 +32,13 @@
         <a href="#details1" class="card">
             <img src="5.jpg" alt="">
             <div class="caption">Her captivating smile</div>
-        </a>
+        </a><br>
         <a href="#details2" class="card">
             <img src="6.jpg" alt="Image 2">
-        </a>
+        </a><br>
         <a href="#details3" class="card">
             <img src="7.jpg" alt="Image 3">
-        </a>
+        </a><br>
     </div>
     <div class="tooltip">
         Hover over me!
